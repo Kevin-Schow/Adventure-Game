@@ -1,2 +1,2 @@
 # Adventure-Game
-An Adventure game made in Uniity with C#
+An Adventure game made in Unity using C#
